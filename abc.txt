@@ -5,3 +5,4 @@ I am master-abc.txt
 hello --- web
 I am web-abc.txt
 master+master=master2
+web+web=web2
